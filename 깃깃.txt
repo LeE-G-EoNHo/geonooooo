@@ -1,1 +1,2 @@
 안녕하이
+file>.ssh>geon-->git status>git add . > git commit -m "메모">git push
